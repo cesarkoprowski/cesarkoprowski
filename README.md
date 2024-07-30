@@ -2,12 +2,16 @@
 
 <div id="user-content-toc">
   <ul align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=7FFF00&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+Cesar+%3A)" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=7FFF00&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+Cesar+%3A)" alt="Typing SVG" />
+  </a>
     <p></p>
-    
-  ![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarkoprowski&show_icons=true&theme=chartreuse-dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarkoprowski&hide_progress=false&theme=chartreuse-dark) 
-  
+  <a href="https://github.com/cesarkoprowski/github-readme-stats">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=cesarkoprowski&theme=chartreuse-dark" />
+  </a>
+  <a href="https://github.com/cesarkoprowski/convoychat">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarkoprowski&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" />
+  </a>
 </div>
   
 ## About me 😀 
