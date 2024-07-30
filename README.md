@@ -2,12 +2,15 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello, World!</h1></summary>
-</div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=7FFF00&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+Cesar+%3A)" alt="Typing SVG" /></a>
+    <p></p>
     
-## I'm Cesar! 😀
-
-### Things about me:
+  ![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarkoprowski&show_icons=true&theme=chartreuse-dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarkoprowski&hide_progress=false&theme=chartreuse-dark) 
+  
+</div>
+  
+## About me 😀 
 
 - 📙 Graduating in Systems Analysis and Development at Fatec Campinas.
 - 🧠 Enthusiast of Artificial Intelligence and Machine Learning.
@@ -36,4 +39,4 @@
   <img align="center" alt="Cesar-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 </div>
 
-<br>
+---
