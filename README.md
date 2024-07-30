@@ -1,11 +1,10 @@
 ---
 
-<div align="center">
-  
-<summary><h1 style="display: inline-block">Hello, World!</h1></summary>
-
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello, World!</h1></summary>
 </div>
-
+    
 ## I'm Cesar! 😀
 
 ### Things about me:
@@ -36,3 +35,5 @@
   <img align="center" alt="Cesar-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Cesar-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 </div>
+
+<br>
