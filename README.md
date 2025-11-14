@@ -20,7 +20,7 @@
 
 - 📙 Graduating in Systems Analysis and Development at Fatec Campinas.
 - 🧠 Enthusiast of Artificial Intelligence and Machine Learning.
-- 🌱 Currently focusing on C++ and AWS.
+- 🌱 Currently focusing on .NET and AWS.
 - 🎈 Practicing for programming competitions.
 - 💻 Full-Stack Developer.
 
